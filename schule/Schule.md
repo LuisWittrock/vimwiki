@@ -1,6 +1,2 @@
 # Schule:
-    - [Mathe](mathe/Mathe)
-    - [Physik](physik/Physik)
-    - [Politik](politik/Politik)
-    - [Informatik](informatik/Informatik)
-    - [Englisch](englisch/Englisch)
+    - [Klasse 11](11/Klasse 11) - alles aus Schuljahr 11
