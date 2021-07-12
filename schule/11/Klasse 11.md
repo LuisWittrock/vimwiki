@@ -4,3 +4,4 @@
     - [Politik](politik/Politik)
     - [Informatik](informatik/Informatik)
     - [Englisch](englisch/Englisch)
+    - [WeNo](weno/WeNo)
