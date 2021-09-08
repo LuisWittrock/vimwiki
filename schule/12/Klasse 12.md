@@ -5,3 +5,4 @@
 [Deutsch](deutsch/Deutsch)
 [WeNo](weno/WeNo)
 [Politik](politik/politik)
+[Geschichte](geschichte/Geschichte)
