@@ -1,3 +1,3 @@
 # Tasks:
-    - [Hausaufgabenheft](Hausaufgabenheft)
-    - [Todolist](Todolist)
+- [Hausaufgabenheft](Hausaufgabenheft)
+- [Todolist](Todolist)

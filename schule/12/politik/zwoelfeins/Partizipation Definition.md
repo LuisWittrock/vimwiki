@@ -1,13 +1,19 @@
-# Definition
+# Politische Partizipation
 
 Datum: 06.09.21
 
-- Politische Partizipation ist, wenn man seine eigene Meinung durch seinen eigenen Einsatz vertritt. z.B. kann man durch die Teilhabe bei FFF die eigene Meinung oeffentlich vertreten
-und bekommt somit eine Moeglichkeit Politische themen zu beinflussen bzw. mitzubestimmen.
-
-- Partizipation ist immer etwas aktives. Es ist die aktive Beteiligung der Buergerinnen und Buerger bei der Erledigung gemeinsamer politischer Angelegnheiten.
-- Teilhabe der Bevoelkerung an politishen Entscheidungsprozesen
-- frewillige Handlung, die darauf abzielt, Entscheidungen auf verschiedenen Ebenen des politischen Systm zu beeinflussen.
+#### Definition
+- Partizipation ist immer etwas aktives. Es ist die aktive Beteiligung der Buergerinnen und Buerger bei der Erledigung gemeinsamer politischer Angelegenheiten.
+- Teilhabe der Bevoelkerung an politischen Entscheidungsprozessen
+- frewillige Handlung, die darauf abzielt, Entscheidungen auf verschiedenen Ebenen des politischen Systems zu beeinflussen.
 - instrumentelles, zielgerichtetes Handeln.
-- Gestalt des oeffentlichen LEbens
-- rechtl. Beiteiligung der Buerger an Verwaltungsakten.
+- Gestaltung des oeffentlichen Lebens
+
+#### Ist das Partizipation?
+
+- Rezos Video ueber CDU
+    - Ja denn er handelt aktiv, freiwillig um den politischen Entscheidungsprozess zu beinflussen. Das instrument ist hier ein Video.
+
+- Twitter Account von Greta Thunberg
+    - Ja eigentlich das selbe wie bei Rezo nur das hier das Instrument ein Twitteraccount ist.
+

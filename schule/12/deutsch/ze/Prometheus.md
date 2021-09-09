@@ -16,4 +16,3 @@
 - Parallelismus (z.29-33 "Wer half mir wider | Wer rettete vom Tode mich")
 - Hyperbel (z.13-14 "ich kenne nichts aermeres unter der Sonn als euch Goetter")
 - Parallelismus (z.39-41 "hast du die schmerzen gelindert | hast du die traenen gestillt")
-- Metapher (z.24-25 "kehrte mein verrirtes Aug' zur Sonne")
