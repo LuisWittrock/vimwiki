@@ -16,3 +16,9 @@
 - Parallelismus (z.29-33 "Wer half mir wider | Wer rettete vom Tode mich")
 - Hyperbel (z.13-14 "ich kenne nichts aermeres unter der Sonn als euch Goetter")
 - Parallelismus (z.39-41 "hast du die schmerzen gelindert | hast du die traenen gestillt")
+
+
+## Epochentypisch
+- Keine gleichen Strophenlaengen
+- Ein Idividuum das die Vorherrschaft der Goetter kritisiert.
+- Starker ich-bezug
